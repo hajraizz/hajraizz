@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 📫 Reach me at 31gh006@proton.me
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am also interested in writing anything
+- ⚡ Fun fact: I am also interested in writing
 
 <!---
 hajraizz/hajraizz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
