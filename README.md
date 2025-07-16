@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Hajira
-- 👀 I’m interested in data management (dbms) and web development
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in AI/ML and web development
 - 📫 Reach me at 31gh006@proton.me
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I am also a writer
 
 <!---
