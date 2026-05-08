@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Hajira Gul</h1>
+<h1 align="center">Hi , I'm Hajira Gul</h1>
 <h3 align="center">AI & ML Enthusiast | C++ & Python Developer with a little knowledge on Web Dev</h3>
 
-- 🌱 I’m currently exploring **AI and Machine Learning**, with a hope to learn all the fascinating things about machines.
-- 👨‍💻 Check out my projects on [GitHub](https://github.com/hajraizz), including a **movie recommendation system** built with C++ data structures. ( Well that is the only one here right now)
+-  I’m currently exploring **AI and Machine Learning**, with a hope to learn all the fascinating things about machines.
+- Check out my projects on [GitHub](https://github.com/hajraizz), including an **adaptive and automatic study planner** built with MERN stack (hoping to turn it into something big one day!). 
 - 📫 Reach me at **gulhajra73@gmail.com**
-- ⚡ Fun fact: I love wasting time doing absolutely nothing 
+- ⚡ Fun fact: I love learning random facts about LITERALLY everything 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hajira gul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hajira gul" height="30" width="40" /></a>
-<a href="https://kaggle.com/hajira3106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hajira3106" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
