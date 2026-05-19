@@ -1,10 +1,10 @@
 <h1 align="center">Hi , I'm Hajira Gul</h1>
-<h3 align="center">AI & ML Enthusiast | C++ & Python Developer with a little knowledge on Web Dev</h3>
+<h3 align="center">AI & ML Enthusiast </h3>
 
--  I’m currently exploring **AI and Machine Learning**, with a hope to learn all the fascinating things about machines.
+-  I’m currently exploring **AI and Machine Learning**, along with other fields in computer science.
 - Check out my projects on [GitHub](https://github.com/hajraizz), including an **adaptive and automatic study planner** built with MERN stack (hoping to turn it into something big one day!). 
-- 📫 Reach me at **gulhajra73@gmail.com**
-- ⚡ Fun fact: I love learning random facts about LITERALLY everything 
+- Reach me at **gulhajra73@gmail.com**
+- Fun fact: I love learning random facts about LITERALLY everything 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
