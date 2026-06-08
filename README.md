@@ -27,10 +27,13 @@ AI student at FAST-NUCES Islamabad, building things while trying to capture both
 
 
 ---
-
+![snake](https://raw.githubusercontent.com/hajraizz/hajraizz/output/github-snake.svg#gh-light-mode-only)
+![snake](https://raw.githubusercontent.com/hajraizz/hajraizz/output/github-snake-dark.svg#gh-dark-mode-only)
 ---
 
 ## Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hajraizz)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/hajraizz)
+
+
