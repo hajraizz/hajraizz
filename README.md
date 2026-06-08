@@ -27,6 +27,12 @@ AI student at FAST-NUCES Islamabad, building things while trying to capture both
 
 
 ---
+## Stats
+ 
+![Haru's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajraizz&show_icons=true&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hajraizz&layout=compact&hide_border=true&theme=default)
+
+---
 
 ## Find me
 
