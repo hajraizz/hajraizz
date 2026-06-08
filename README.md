@@ -8,7 +8,7 @@ AI student at FAST-NUCES Islamabad, building things while trying to capture both
 
 | Project | Stack | Description |
 |--------|-------|-------------|
-| [Conehead-Bot](https://github.com/hajraizz/conehead-bot) | TypeScript · Next.js | Conan Gray fan chatbot — my main independent project. Built the full stack from scratch. |
+| [Conehead-Bot](https://github.com/hajraizz/conehead-bot) | TypeScript · Next.js | Conan Gray fan chatbot. An independent project I built for a fanbase |
 | [Algorithm Visualizer](https://github.com/hajraizz/algorithm-visualizer) | Python | Interactive visualizations of sorting and graph algorithms. Live demo on GitHub Pages. |
 | [Cricket Squad Optimizer](https://github.com/hajraizz/cricket-squad-optimizer) | Python | Genetic algorithm implementation for optimal cricket team selection. |
 
