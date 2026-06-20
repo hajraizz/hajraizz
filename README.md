@@ -33,7 +33,7 @@ AI student at FAST-NUCES Islamabad, building things while trying to capture both
 
 ## Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hajraizz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/hajraizz](https://www.linkedin.com/in/hajira-gul-540b95322/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/hajraizz)
 
 
